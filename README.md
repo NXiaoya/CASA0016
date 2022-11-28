@@ -13,7 +13,7 @@ https://www.geeky-gadgets.com/the-ambient-umbrella-30-12-2009/
 
   -a small LED
   
-  -expensive
+  -expensive ($130)
   
 ## Hardware need:
 The list of components:
