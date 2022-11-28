@@ -9,6 +9,8 @@ As we know, the weather in London is changeable and it often rains. I often forg
 
 https://www.geeky-gadgets.com/the-ambient-umbrella-30-12-2009/
 
+![Other product](https://github.com/NXiaoya/CASA0016/blob/main/pictures/idea.png)
+
   -a small LED
   
   -expensive
