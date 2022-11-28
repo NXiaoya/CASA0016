@@ -22,3 +22,6 @@ The list of components:
    - PIR sensor
    - LCD screen
    - Buzzer
+   
+  # Problem:
+  How to get the weather today
