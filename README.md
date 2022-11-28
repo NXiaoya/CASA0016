@@ -11,7 +11,7 @@ https://www.geeky-gadgets.com/the-ambient-umbrella-30-12-2009/
 
 ![Other product](https://github.com/NXiaoya/CASA0016/blob/main/pictures/idea.png)
 
-  -a small LED
+  -Only LED
   
   -expensive ($130)
   
