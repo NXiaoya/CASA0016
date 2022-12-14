@@ -34,7 +34,7 @@ Serial clock line (SCL) is a Clock line, which controls the time sequence of dat
 
 https://home.openweathermap.org/users/sign_in
 
-Open weather map API: free, can get the weather in different cities.
+Open weather map API: free, can get the weather in different cities. The httpGETRequest() function makes a request to OpenWeatherMap and it retrieves a string with a JSON object that contains the weather information.
    <img src="https://github.com/NXiaoya/CASA0016/blob/main/pictures/ToAPI.png" data-canonical-src="https://github.com/NXiaoya/CASA0016/blob/main/pictures/ToAPI.png" width="400"/> 
    
    ![jsonvar](https://github.com/NXiaoya/CASA0016/blob/main/pictures/jsonvar.png)
