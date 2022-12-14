@@ -1,5 +1,6 @@
 # CASA0016- Home Weather Forecast By: Xiaoya Nie
-<img src="https://github.com/NXiaoya/CASA0016/blob/main/pictures/icon.png" data-canonical-src="https://github.com/NXiaoya/CASA0016/blob/main/pictures/icon.png" width="800" height="400" />
+![icon](https://github.com/NXiaoya/CASA0016/blob/main/pictures/icon.png)
+<img src="https://github.com/NXiaoya/CASA0016/blob/main/pictures/icon.png" data-canonical-src="https://github.com/NXiaoya/CASA0016/blob/main/pictures/icon.png" width="400" height="400" />
 ## Project Aim:
 As we know, the weather in London is changeable and it rains a lot. I often forget to bring my umbrella. I wanted to design a device that would hang next to the door. Every time when I'm leaving, it will tell me the weather today. It would remind the user if the umbrella is needed before he/she go out. At the same time, to save on system consumption, the reminder would only be activated when it detects someone approaching the door.
 
