@@ -19,13 +19,32 @@ The list of components:
    - AM2302: The temperature and humidity sensor, measuring the data in the room.
 
 Hardware connection:
+
 <img src="https://github.com/NXiaoya/CASA0016/blob/main/pictures/Pin.png" data-canonical-src="https://github.com/NXiaoya/CASA0016/blob/main/pictures/Pin.png" width="600"/>
 
+<img src="https://github.com/NXiaoya/CASA0016/blob/main/pictures/Grove.png" data-canonical-src="https://github.com/NXiaoya/CASA0016/blob/main/pictures/Grove.png" width="600"/>
+
+#### I2C:
+
+Serial data line(SDA) is for Data transmission.
+
+Serial clock line (SCL) is a Clock line, which controls the time sequence of data transmission.
+
 ## API used:
-    https://home.openweathermap.org/users/sign_in
-    Open weather map API: free, can get the weather in different cities.
+
+https://home.openweathermap.org/users/sign_in
+
+Open weather map API: free, can get the weather in different cities.
    <img src="https://github.com/NXiaoya/CASA0016/blob/main/pictures/ToAPI.png" data-canonical-src="https://github.com/NXiaoya/CASA0016/blob/main/pictures/ToAPI.png" width="400"/> 
    
-## Project schematic:
+   ![jsonvar](https://github.com/NXiaoya/CASA0016/blob/main/pictures/jsonvar.png)
+   
+## Project Flow:
+
 ![flow](https://github.com/NXiaoya/CASA0016/blob/main/pictures/flow.png)
+
+## Home Weather Forecast:
+
+![whole](https://github.com/NXiaoya/CASA0016/blob/main/pictures/whole.jpg)
+
 
