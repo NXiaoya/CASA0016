@@ -50,11 +50,17 @@ Open weather map API: free, can get the weather in different cities. The httpGET
 
    <img src="https://github.com/NXiaoya/CASA0016/blob/main/pictures/ToAPI.png" data-canonical-src="https://github.com/NXiaoya/CASA0016/blob/main/pictures/ToAPI.png" width="400"/> 
    
+JSONVar get (shown in serial monitor)
    ![jsonvar](https://github.com/NXiaoya/CASA0016/blob/main/pictures/jsonvar.png)
    
-## Project Flow:
+## Project Flow Chart:
 
 ![flow](https://github.com/NXiaoya/CASA0016/blob/main/pictures/flow.png)
+       
+       //convert JSONVar to string
+       weather = JSON.stringify(myObject["weather"][0]["main"]);
+       //convert the temperature to double(in Celsius)
+      TempOut = (double)myObject["main"]["temp"] -273;
 
 ## Home Weather Forecast:
 
